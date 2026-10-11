@@ -26,7 +26,7 @@ The visual cards below use public image services; all essential profile details 
 
 ## 01 · About
 
-I'm TANABORDE, a game developer and game designer based in Bangkok, Thailand. I design games and build interactive prototypes.
+I'm TANABORDE, a game developer and game designer based. I design games and build interactive prototypes.
 
 ```text
 tanaborde@github:~$ whoami
