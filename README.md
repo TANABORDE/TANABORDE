@@ -26,7 +26,7 @@ The visual cards below use public image services; all essential profile details 
 
 ## 01 · About
 
-I'm TANABORDE, a game developer and game designer based in Bangkok, Thailand. I design games and build interactive prototypes. My public work includes **Math Snake**, a browser based multiplayer Snakes & Ladders and math game prototype for up to four players.
+I'm TANABORDE, a game developer and game designer based in Bangkok, Thailand. I design games and build interactive prototypes.
 
 ```text
 tanaborde@github:~$ whoami
@@ -38,16 +38,7 @@ Bangkok, Thailand
 tanaborde@github:~$ ls public-projects
 math-snake
 ```
-
-## 02 · Projects
-
-| Featured project | Explore more |
-| :--- | :--- |
-| **[Math Snake](https://github.com/TANABORDE/math-snake)**<br />Multiplayer game prototype with room creation, a four player lobby, host handoff, and Thai/English UI.<br /><sub>JavaScript · Node.js · Express · Socket.IO</sub> | **[All repositories](https://github.com/TANABORDE?tab=repositories)**<br />Browse public experiments and work in progress on GitHub. |
-
-> **Project status:** Math Snake's lobby and room flow are implemented. The main game loop is still in progress.
-
-## 03 · Profile signal
+## 02 · Profile signal
 
 <div align="center">
   <a href="https://github.com/TANABORDE">
