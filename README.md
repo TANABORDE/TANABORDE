@@ -6,15 +6,8 @@ The visual cards below use public image services; all essential profile details 
 
 <div align="center">
   <a href="https://github.com/TANABORDE">
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,50:14253D,100:0A2930&amp;height=220&amp;section=header&amp;text=TANABORDE&amp;desc=Game%20Dev%20%7C%20Game%20Design&amp;fontColor=EAF3FF&amp;fontSize=54&amp;descSize=18&amp;fontAlign=50&amp;fontAlignY=42&amp;descAlign=50&amp;descAlignY=64"
-      alt="TANABORDE — Game Dev and Game Design"
-      width="100%"
-    />
+    <img src="assets/terminal-banner.gif" alt="Animated terminal window showing TANABORDE in ASCII letters" width="960" />
   </a>
-  <br />
-  <img src="https://github.com/TANABORDE.png?size=160" alt="TANABORDE's GitHub avatar" width="88" height="88" />
-  <h1>TANABORDE</h1>
   <p><strong>Game developer &amp; game designer</strong> based in Bangkok, Thailand.</p>
   <p>
     <a href="https://github.com/TANABORDE/math-snake">Featured project</a>
@@ -33,7 +26,7 @@ The visual cards below use public image services; all essential profile details 
 
 ## 01 · About
 
-I design games and build interactive prototypes. My public work includes **Math Snake**, a browser based multiplayer Snakes & Ladders and math game prototype for up to four players.
+I'm TANABORDE, a game developer and game designer based in Bangkok, Thailand. I design games and build interactive prototypes. My public work includes **Math Snake**, a browser based multiplayer Snakes & Ladders and math game prototype for up to four players.
 
 ```text
 tanaborde@github:~$ whoami
