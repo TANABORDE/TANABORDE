@@ -1,12 +1,12 @@
 <!--
 GitHub profile README for https://github.com/TANABORDE
-Place this file at the root of the public TANABORDE/TANABORDE repository.
+Place this file and terminal-banner.gif at the root of the public TANABORDE/TANABORDE repository.
 The visual cards below use public image services; all essential profile details remain readable as text.
 -->
 
 <div align="center">
   <a href="https://github.com/TANABORDE">
-    <img src="assets/terminal-banner.gif" alt="Animated terminal window showing TANABORDE in ASCII letters" width="960" />
+    <img src="terminal-banner.gif" alt="Animated ASCII wordmark spelling TANABORDE" width="960" />
   </a>
   <p><strong>Game developer &amp; game designer</strong> based in Bangkok, Thailand.</p>
   <p>
